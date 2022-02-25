@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Mr. J. Humphrey's second printed letter wherein he publisheth Mr. Lob's objections against Mr. W's books.</title>
+            <author>Williams, Daniel, 1643?-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66342</idno>
+            <idno type="STC">Wing W2644A</idno>
+            <idno type="STC">ESTC R30208</idno>
+            <idno type="EEBO-CITATION">11259561</idno>
+            <idno type="OCLC">ocm 11259561</idno>
+            <idno type="VID">47204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1452:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Mr. J. Humphrey's second printed letter wherein he publisheth Mr. Lob's objections against Mr. W's books.</title>
+                  <author>Williams, Daniel, 1643?-1716.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Dan. Williams.</note>
+                  <note>Imperfect: pages cropped with loss of print (including imprint?)</note>
+                  <note>Imprint information supplied by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Person and offices --  Early works to 1800.</term>
+               <term>Jesus Christ --  History of doctrines.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47204:1"/>
+            <pb n="1" facs="tcp:47204:1"/>
+            <head>
+               <hi>An Anſwer to Mr.</hi> J. Humphrey'<hi>s Second Printed Letter, wherein he publiſheth Mr.</hi> Lob'<hi>s Ob<g ref="char:EOLhyphen"/>jections againſt Mr.</hi> W'<hi>s. Books.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Firſt Letter miſrepreſents my Judgment in many things, as if you little conſidered my Books, whence you pretend your Ob<g ref="char:EOLhyphen"/>jections: This Letter I ſuffer to paſs without further Animadver<g ref="char:EOLhyphen"/>ſion, than to inform you, that my Adverſaries have boldly aſſured the World, that I ſay, The Righteouſneſs of Chriſt is imputed <hi>only as to Effects;</hi> whereas you truly repreſent my words, that <hi>beſides</hi> the Effects, the Righteouſ<g ref="char:EOLhyphen"/>neſs of Chriſt it ſelf, is imputed to us. It's true, you had prevented your Plea againſt it, had you conſulted <hi>Man made Righteous, p.</hi> 77, 78, 79, 80. Yet have I no reaſon to complain of my Treatment; whilſt ſtruck at by both Ex<g ref="char:EOLhyphen"/>treams, when deeper thoughts would perceive the truth ſtated againſt the ex<g ref="char:EOLhyphen"/>ceſs of both?</p>
+            <p>But your Second Letter neceſſitates a Vindication of my ſelf from the Fal<g ref="char:EOLhyphen"/>ſhoods impoſed on you; the Publication whereof is poorly excuſed by ſaying, <hi>You have not my Books now to examine the Quotations.</hi> Will your Experience al<g ref="char:EOLhyphen"/>low you to be a Tool to a Man you call learned, becauſe <hi>Induſtrious</hi> to divide Brethren, under a pretence of Reconciling a Breach, which is made and main<g ref="char:EOLhyphen"/>tained to ſerve a turn, againſt all the ſelf-denying Methods that were poſſible on our part. This Sheet allows not arguing any Point; my Concern is to ſhew how unjuſtly I am repreſented, by the Objections offered by your Au<g ref="char:EOLhyphen"/>thor.</p>
+            <p n="1">
+               <label>1. Obj.</label> 
+               <hi>Chriſt, where he is called a Surety, was a Surety of a better Covenant, and therefore not of the Law of Works. It was not a Covenant that obliged us to dye for ſin, or perfectly obey in a way of Merit, that he is called a Surety of.</hi> Man made Righteous, p. 102.</p>
+            <p>
+               <label>Anſ. 1.</label> He leaves out the word <hi>here,</hi> and ſo changeth the ſenſe. My words are, That the Covenant he is <hi>called</hi> a Surety of <hi>here,</hi> viz. <hi>Heb.</hi> 7. 22.</p>
+            <p>
+               <label>Anſ. 2.</label> In ſtating the Queſtion that leads to theſe words, I declared what I affirmed concerning Chriſt's Surety-ſhip, and what I did deny. 1. I granted that Chriſt hath undertaken in the Covenant of Redemption, that he would make Satisfaction to Juſtice for us, and obey the whole Will of God, <hi>&amp;c.</hi> He was a <hi>real Sponſor,</hi> engaging to do all that belonged to him. Chriſt accord<g ref="char:EOLhyphen"/>ingly died in our Nature, and that not only for our good, but in <hi>our ſtead, no<g ref="char:EOLhyphen"/>ſtro loco.</hi> We were liable to dye, he ſtept in and died, that we might not dye; who otherwiſe muſt have dyed, but now live by his dying for us. He was a
+<pb n="2" facs="tcp:47204:2"/> proper <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He gave his Life for ours; yea, and this to vindicate the Glory of God, in exempting us from Death, <hi>&amp;c.</hi> Then I proved that Chriſt did ſuffer <hi>properly in our ſtead,</hi> was a Sacrifice for us, <hi>&amp;c.</hi> And concluded, Thus far the Word of God directs us to call Chriſt, either <hi>Surety,</hi> Sponſor, Repre<g ref="char:EOLhyphen"/>ſentative, <hi>&amp;c. p.</hi> 90, 91, 92. 2. The thing that I did deny, was, That Chriſt by his Obedience made Atonement, or merited for us, as <hi>a proper Pecuniary Surety in the Law of Works.</hi> This I confuted by ſeveral Arguments; and the words objected are the ſixth Argument, <hi>viz.</hi> that in <hi>Heb.</hi> 7. 22. where Chriſt is called a Surety, it is of the better Covenant; which is not the Covenant of Works. Sir, judge you, whether I affirm not Chriſt to be a <hi>Surety,</hi> Name and Thing; though I affirm that it's the better Covenant he is called Surety of in <hi>Heb.</hi> 7. 22. And deny him to be a <hi>Money</hi> Surety.</p>
+            <p n="2">
+               <label>2. Obj.</label> 
+               <hi>Chriſt can be bound by the Covenant, of which he is ſurety, to no more than what we are engaged to do and ſuffer by the Goſpel-Covenant.</hi> Man made Righteous, <hi>p.</hi> 105.</p>
+            <p>
+               <label>Anſ.</label> My words are, The Covenant Chriſt is Surety of <hi>in this place,</hi> viz. <hi>Heb.</hi> 7. 22. is the Goſpel-Covenant; and if ſo, he can even as a Money Surety <hi>hereby</hi> be bound with us to no more than what we are engaged to do and Suf<g ref="char:EOLhyphen"/>fer by this Goſpel-Covenant. It's true, by the Covenant of Redemption, he was engaged to ſuffer Death in the Humane Nature for Satisfaction, and this in our place, and alſo to obey the whole Law. Sir, can you not ſee that the Objector leaves out, <hi>in this place, Money, and hereby.</hi> And he alſo makes that to be my Aſſertion, what I only infer from a Suppoſition, which I denyed, and leaves out <hi>if ſo.</hi> He would ſuggeſt me to ſay, Chriſt is to Repent and Believe for us; which, as I expreſly deny, <hi>p.</hi> 91. So I oft declare, that his Surety-ſhip, as to the Goſpel-Covenant, conſiſts in his undertaking that the Covenant ſhall be performed on God's, and on the Believers part. And laſtly, he ſtops juſt at the words which confute his whole Imputation, <hi>viz.</hi> That Chriſt was en<g ref="char:EOLhyphen"/>gaged by the Covenant of Redemption to Suffer, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">
+               <label>3. Obj.</label> 
+               <hi>Though in</hi> Gal. 4. 4, 5. <hi>it's ſaid, that Chriſt was made under the Law, it is not meant of the Moral Law, but Ceremonial Law.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> I was proving that though the Righteouſneſs of Chriſt, for which we are juſtified, be a Righteouſneſs adequate to the Law, yea, <hi>Supra legal,</hi> as well as in ſubſtance truly Legal; yet that Righteouſneſs is not a Surety-ſhip Righte<g ref="char:EOLhyphen"/>ouſneſs, that can infer us equally Righteous as Chriſt. Purſuant hereto, I propoſe <hi>Gal.</hi> 4. 4, 5. as an Objection, to which I made theſe four Anſwers. 1. <hi>I might ſhew</hi> how the Context confines to the following ſenſe, <hi>viz.</hi> That Chriſt was made under the <hi>Jewiſh Law,</hi> delivered Four Hundred Years after the Promiſe, <hi>&amp;c.</hi> And in this ſenſe it is not the Law of Innocency, as a <hi>Pro<g ref="char:EOLhyphen"/>per Covenant of Works,</hi> &amp;c. The Objection is pretended hence; but I ſaid the <hi>Jewiſh</hi> Law, not the <hi>Ceremonial</hi> Law, which is but part of it: The Moral Law was alſo a part thereof, though not <hi>delivered</hi> to them as a proper Covenant of In<g ref="char:EOLhyphen"/>nocency. 2. My next Anſwer, and in the very ſame Page, was, I grant that Chriſt in taking our Nature, became a Servant, and ſubject to <hi>the Law of Innocency,</hi> to its <hi>Precepts,</hi> and its <hi>Puniſhments,</hi> as a Mediator, according to the terms adjuſted in the Covenant of Redemption. Here I affirmed what he ſaith I deny. My
+<pb n="3" facs="tcp:47204:2"/> Fourth <hi>Anſwer</hi> was, Chriſt did not then become a Surety, or Underta<g ref="char:EOLhyphen"/>ker to dye for us, by being made under the Law, but he was made un<g ref="char:EOLhyphen"/>der the Law, becauſe he had undertaken to dye for us. His very <hi>being made under the Law of Works, was</hi> but a performance of a Previous En<g ref="char:EOLhyphen"/>gagement to the Law-giver; this being one <hi>Article</hi> in the Covenant of Re<g ref="char:EOLhyphen"/>demption, that he ſhould take our Nature, be a <hi>Servant under the Law,</hi> and make his Soul an Offering for Sin. <hi>Ubi ſup. p.</hi> 110, 111.</p>
+            <p n="4">
+               <label>4. Obj.</label> 
+               <hi>Calling God Creditor, and Sin Debts, is Metaphorical; and uſing ſuch words as proper, hath given Advantage to the</hi> Socinians.</p>
+            <p>
+               <label>Anſ.</label> I acknowledge it, and ſuch as underſtand the way of Confuting the <hi>Socinians,</hi> are of the ſame mind. And therefore grant, if God were a <hi>Creditor,</hi> and Sin a <hi>Debt,</hi> God might forgive without Satisfaction; and if the <hi>Idem</hi> be paid, it's not a Satisfaction, nor is there room for Pardon, nor for Goſpel-terms. See this urged by <hi>Leideker, Synopſis Theol.</hi> l. 4. cap. 6. S. 4, 5, 6, 7. 11. 20. 45. B. <hi>Stillingfleet, Suff. of Chriſt,</hi> Cap. 1. <hi>Grotius de Satisf.</hi> p. 60. 71. <hi>Eſſen. Trium. Crucis,</hi> 340. 390. Dr. <hi>Owen, of Satisf.</hi> 141. ſaith, they are the moſt improper Expreſſions in this matter.</p>
+            <p n="5">
+               <label>5. Obj.</label> 
+               <hi>There is no change of Perſon between Christ and the Elect, or between him and Believers.</hi> Goſpel Truth, p. 37. 41.</p>
+            <p>
+               <label>Anſ. 1.</label> If by change of Perſon be meant ſimply a change of Perſons or Men; that is, that Sinners were to dye for their Tranſgreſſions, but Chriſt, by God's Appointment, and his own Conſent, was ſubſtituted to obey, and dye in Sinners ſtead; and Chriſt ſtood obliged ſo to Obey and Suffer what for ſubſtance the Law required. I have hundreds of times aſſer<g ref="char:EOLhyphen"/>ted it in my Books. I have not room to inſtance. See in <hi>Man made Righteous,</hi> Eight Propoſitions clearing this. In one I ſay, Divine Grace and Soveraignty exert themſelves to anſwer the ends of the Law, by <hi>ſubſtituting Chriſt a Sa<g ref="char:EOLhyphen"/>viour of loſt Souls,</hi> &amp;c. p. 11, 12, 13.</p>
+            <p>
+               <label>Anſ. 2.</label> The change of Perſon I there denyed, is only that which Dr. <hi>Criſp</hi> and Followers aſſert, and which is the ſtrict meaning of <hi>a change of Perſon, viz.</hi> A mutual compleat change of Condition and Character; and not a transferring a Puniſhment from a Criminal to an Hoſtage. This is evident, 1. By the Error I there confute, <hi>i. e.</hi> that every Elect Perſon is as Righteous as Chriſt; there is a perfect change of Perſon and Condition between Chriſt and the Elect: He <hi>was</hi> what we <hi>are,</hi> and we are what he was, <hi>viz. perfectly Holy,</hi> &amp;c. Chriſt himſelf is not ſo compleatly Righteous, but we are <hi>as</hi> Righteous as he; nor we ſo compleatly Sinful, but Chriſt be<g ref="char:EOLhyphen"/>came <hi>as ſinful as</hi> we, <hi>&amp;c.</hi> That very <hi>ſinfulneſs</hi> that we were, Chriſt is made that very Sinfulneſs before God: So that there is <hi>a direct change of Perſon.</hi> 2. It's plain that I denyed this change of Perſon in <hi>Criſp's</hi> ſenſe, by what I offer to overthrow it; wherein nothing oppoſeth Chriſt's dying in our ſtead, by God's Subſtitution or Surrogation. My words are, Chriſt was the <hi>Sa<g ref="char:EOLhyphen"/>viour,</hi>
+               <pb n="4" facs="tcp:47204:3"/> we the <hi>ſaved,</hi> and not the Saviours. Chriſt was the <hi>Redeemer,</hi> and not the Redeemed; we are the <hi>Redeemed,</hi> and never the Redeemers. Chriſt was he who by his Merits <hi>forgives</hi> us, but never was forgiven; we are <hi>for<g ref="char:EOLhyphen"/>given,</hi> and never had Merits of our own to forgive our ſelves or others. He was the dying <hi>Sacrifice.</hi> 3. I do in the very Chapter whence the words are objected, oft aſſert as much, as the Orthodox intend by Chriſt's being ſubſtituted in our place to dye for us. To inſtance a few of many, <hi>p.</hi> 39. Chriſt's Sufferings were <hi>ſo in our ſtead,</hi> that God cannot exact from us any <hi>other Atonement</hi> for Sin, or meriting <hi>Price</hi> of any Goſpel-Bleſſings. <hi>p.</hi> 43. The Efficient Merit of Juſtification is in Chriſt, the Effect of the Judicial Abſo<g ref="char:EOLhyphen"/>lution for that Merit is in us. Had not he obeyed, and <hi>ſuffered for us,</hi> we <hi>could not</hi> have been abſolved for the <hi>ſake</hi> of his Obedience and Sufferings. <hi>P.</hi> 52. Chriſt ſuffered <hi>in our ſtead,</hi> that the Fruit of his Sufferings might be our deliverance from Sufferings, and our being ſaved at laſt. How many might I add out of that very Chapter? It's worth the Objector's leiſure to conſider, how he lays ſuch ſtreſs on a change of Perſon in <hi>Criſp</hi>'s ſenſe, and yet contends for Chriſt and us being one Legal Perſon. How could Chriſt and we be <hi>One</hi> Perſon in Law, and yet Chriſt's Perſon and our Perſons be mutually <hi>changed</hi> in Law, unleſs that both Perſons were changed from what they once were, into a <hi>tertium quid,</hi> that neither were before?</p>
+            <p n="6">
+               <label>6. Obj.</label> 
+               <hi>There is a change of the Penal Sanction of the Law,</hi> Pref. Goſpel-Truth. <hi>The Goſpel doth not denounce Death for the ſame ſins, and for every ſin, as</hi> Adam's <hi>Law did.</hi> Def. Goſp. Truth, p. 30.</p>
+            <p>
+               <label>Anſ. 1.</label> The firſt Clauſe is falſe repreſented: I will recite my words, After I had ſaid, the Goſpel includes the Moral <hi>Preceptive</hi> part of the firſt Law, <hi>&amp;c.</hi> And that the Goſpel is taken in a large ſenſe, when I ſay, it includes the Moral Precepts. But yet the Goſpel doth ſo, and they are the Commands of a <hi>Redeemer,</hi> as well as the Law of a <hi>Creator.</hi> I then added, The <hi>Goſpel hath another</hi> Sanction to the Preceptive part of the Law, than the <hi>Covenant</hi> of Works had: Though nothing be abated in the <hi>Rule</hi> of Sin and Duty, yet Bleſſings are <hi>promiſed</hi> to lower degrees of Duties; and a continuance in a ſtate of Death, with a Bar to the Bleſſing, are not <hi>threatned</hi> againſt every <hi>degree</hi> of Sin, as the Covenant of Works did; doth it threaten Dam<g ref="char:EOLhyphen"/>nation, or a continuance therein on any true Penitent, Believing, Godly Man, becauſe he is imperfect? Sir, judge you, is a <hi>Change of the Penal Sanction of the Moral Law,</hi> the ſame as the <hi>Goſpel hath another</hi> Sanction to the Preceptive part of the Law, as thoſe Precepts are <hi>taken into the Goſpel.</hi> May not the Law have <hi>its own</hi> Sanction ſtill as a Covenant of Works? And yet the Goſpel have <hi>another</hi> Sanction as a Covenant of Grace, though it includes the Moral Precepts as a Rule of Duty? It ſeems the Ob<g ref="char:EOLhyphen"/>jector thinks with his Aſſociates, either the Goſpel hath neither Precept, Threatning, nor Conditional Promiſe. Or if it hath a Sanction, it's this, that though a Man be a ſincere Penitent Believer, yet he ſhall dye if he be guilty of one evil Thought; and ſhall not be ſaved, if he be not Perfect.</p>
+            <pb n="5" facs="tcp:47204:3"/>
+            <p>
+               <label>Anſw. 2.</label> As to the ſecond Clauſe, my words were, The Goſpel Law doth not denounce death for the ſame Sins, as <hi>Adam</hi>'s Law did: That Law threat<g ref="char:EOLhyphen"/>ned Death for the leaſt Sin; yea, for one Sin. <hi>The Goſpel doth not bar every Sin<g ref="char:EOLhyphen"/>ner from relief, but the impenitent, unbelieving, and utterly ungodly Hypocrite: And it binds not damnation on us, unleſs we are finally impenitent Unbelievers,</hi> But the Objector wiſely leaves out the laſt part, to traduce me by the firſt.</p>
+            <p n="7">
+               <label>7. Obj.</label> 
+               <hi>Chriſt purchaſed the Covenant of Grace.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> I ſpeak not of God's decree or purpoſe, but of the actual promulga<g ref="char:EOLhyphen"/>ted Promiſe to the World, that he that believeth ſhall be ſaved: And I can as ſoon think, God might perform this Promiſe, without reſpect to Chriſt's Merits; as not provide for the Glory of his Juſtice by Chriſt's ſatisfaction, in the ma<g ref="char:EOLhyphen"/>king this Promiſe.</p>
+            <p n="8">
+               <label>8. Obj.</label> 
+               <hi>The Condition of the Covenant of Grace, is an antecedent condition.</hi> Anſw. My words quoted from Mr. <hi>Flavel</hi> are, An antecedent Condition ſignifies no more than an act of ours; which though it be neither perfect in every degree, nor in the leaſt meritorious of the benefit, nor perform'd in our own natural ſtrength: Yet, according to the conſtitution of the Covenant, it is required of us, in order to the bleſſings <hi>conſequent thereupon, by virtue of the Promiſe. Goſpel Truth, p.</hi> 54. You ſee I mean only antecedent to <hi>ſubſequent</hi> benefits by Goſpel Conſtitution, but ſpeak not of Election. Sir, you omit one part of the Obje<g ref="char:EOLhyphen"/>ction, <hi>viz.</hi> That I ſhould ſay, <hi>the Conditions are legal, &amp;c.</hi> I never call them ſo. Nay, <hi>p.</hi> 56. I affirmed, That the Conditions of the Covenant of Grace <hi>differ</hi> from the Conditions of the Covenant of Works, and proved it in five inſtances; one whereof is, that the bleſſings of the Covenant of Grace, are <hi>meerly of Grace,</hi> they be for <hi>anothers</hi> ſake, and not our own, <hi>&amp;c.</hi>
+            </p>
+            <p n="9">
+               <label>9 Obj.</label> 
+               <hi>Faith and Repentance are not Covenant Benefits.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> He pretends to Cite no place out of my Books for this, and I never wrote any ſuch thing. But I have ſaid, God hath <hi>promiſed,</hi> and Chriſt engaged in the Covenant of Redemption, that the Elect <hi>ſhall</hi> believe. <hi>Goſpel Truth, p.</hi> 60. The firſt Grace by which we perform the Condition is <hi>abſolutely</hi> given, <hi>p.</hi> 61. Chriſt purchaſed all Grace for us, and by his Spirit worketh all Grace in us, 248. There is a promiſe of the <hi>first Grace</hi> made to Chriſt, and by virtue of that Promiſe, the Elect conſent to the Covenant, 66. Now Sir, compare all theſe things and judge whether your Author deſerveth ſuch truſt, as to adventure your Publication of theſe things upon his Credit. Sincerity enclineth you to be too credulous for ſome Aſſociates: But I proceed to the other Objections your Author makes, tho he never vouchſafed me a Copy of what he gave to many others privately.</p>
+            <p n="10">
+               <label>10. Obj.</label> 
+               <hi>The Father was never diſpleaſed with Chriſt, Goſpel Truth, p. 31. Anſw.</hi> I ſaid the <hi>Soul</hi> of Chriſt endured the effects <hi>of God's Wrath,</hi> and was amazed there<g ref="char:EOLhyphen"/>at;
+<pb n="6" facs="tcp:47204:4"/> but was never diſpleaſed with Chriſt. It ſeems the Objector would have me ſay with <hi>Criſp,</hi> that Chriſt was <hi>odious</hi> to God, hated worſe than a Toad, <hi>&amp;c.</hi> becauſe of the <hi>filthineſs</hi> of ſin upon him.</p>
+            <p n="11">
+               <label>11. Obj.</label> 
+               <hi>All Communications of Comfort could not be interrupted, whilſt the Perſo<g ref="char:EOLhyphen"/>nal Union remained, p.</hi> 33.</p>
+            <p>
+               <label>Anſw.</label> My words are, This Union could not be diſſolved; nor could all Communications of Comfort or <hi>Strength</hi> from the Divine Nature be interrupted, while the Union remained. He leaves out, <hi>or ſtrength,</hi> and changeth a disjun<g ref="char:EOLhyphen"/>ctive Propoſition into an abſolute. I diſtinguiſh between the <hi>arbitrary</hi> Commu<g ref="char:EOLhyphen"/>nications of Comfort, and thoſe which were neceſſary to Chriſt's Hope, Truſt, Peace of Conſcience as to his own Innocency, to his Holineſs, Strength, and the prevention of Deſpair; what degrees of Comfort were neceſſary to theſe, I affirm, were not interrupted.</p>
+            <p n="12">
+               <label>12. Obj.</label> 
+               <hi>Chriſt and we are not one in</hi> Conſpectu fori, <hi>and therefore tells us, that 'tis Blaſphemy to debaſe him among the numbers of Tranſgreſſors.</hi> Goſpel Truth, 41.</p>
+            <p>
+               <label>Anſw. 1.</label> Not one in <hi>Conſpectu fori,</hi> is not in any of my Books. The words partly Cited, are part of my Argument, againſt the <hi>Criſpian</hi> Change of Perſon; whereby we are as Righteous as Chriſt, and he as ſinful as we, they are theſe; it is profane Arrogance for us to pretend to Chriſt's <hi>Prerogatives,</hi> and its Blaſphemy to debaſe Chriſt among Enemies and Sinners, for whom he is the dying Sacri<g ref="char:EOLhyphen"/>fice: its enough, that he reſerving the peculiars of a Redeemer, ſhould agree to dye for our Sins: its enough, that we are pardoned and adopted for his ſake, who deſerved endleſs Woe; and were never capable of making the leaſt Atonement.</p>
+            <p>
+               <label>Anſw. 2.</label> If the Objector intends to repreſent me denying the guilt of Sin, being once upon Chriſt; he knows I plainly ſtate and affirm the contrary. <hi>P.</hi> 7. Our Sins were laid upon Chriſt, with reſpect to the <hi>guilt thereof:</hi> So that by the Father's Appointment, and his own Conſent, he became obliged as Medi<g ref="char:EOLhyphen"/>ator to bear <hi>thoſe Puniſhments,</hi> to the full ſatisfaction of Juſtice. And <hi>p.</hi> 9. Chriſt did bear the guilt of our Sins, which is, that reſpect to the <hi>threatning</hi> of the Law, whereby there is an Obligation to bear the Puniſhment. <hi>Anſw.</hi> 3. I Sup<g ref="char:EOLhyphen"/>poſe the Objector is <hi>now</hi> offended that I did not ſay with <hi>Criſp</hi> and his Party, that <hi>Sin it ſelf,</hi> the filth and fault, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as oppoſed to the guilt, was laid on Chriſt; and that he was in God's eſteem the <hi>very murtherer and Idolater. Anſw.</hi> 4. I grant God eſteemed Chriſt and Sinners <hi>ſo one;</hi> as he that freely en<g ref="char:EOLhyphen"/>gageth to dye to redeem Sinners, by dying in their ſtead, and they in whoſe ſtead he ſo dieth, <hi>are one.</hi> But I ſhall ever deny, that Chriſt and Sinners were ſo one in <hi>Conſpectu fori,</hi> as that God eſteemed Sinners to dye to make ſatisfacti<g ref="char:EOLhyphen"/>on; tho they, when Believers, are ſaved by Chriſt's Death, as if they had made Atonement. And alſo, That Chriſt was the Sinner in God's Account, when he died, ſuſtaining the Perſon of a Mediator.</p>
+            <p n="13">13. Obj. <hi>Mr.</hi> W. <hi>differs from himſelf, having in his Writings ſeveral inconſiſten<g ref="char:EOLhyphen"/>cies and ſelf-contradictions.</hi>
+            </p>
+            <pb n="7" facs="tcp:47204:4"/>
+            <p>
+               <hi>Anſw.</hi> 1. This is put in for a Proviſion againſt all that occurs in my Books; to debar the falſe Charge againſt me, oh <hi>he contradicts himſelf,</hi> when he utters things in fulleſt oppoſition to Socinianiſm, <hi>&amp;c. Anſw.</hi> 2. And wherein do I Contradict my ſelf? The Objector thinks, if I deny the <hi>Criſpian</hi> change of Perſon, or pecuniary Suretiſhip, and one legal Perſon, in a ſenſe inferring our making Satisfaction, by our own dying in the Laws eſtimate. Then whatever I ſay of Chriſt's Satisfaction, muſt be Socinianiſm; and all I can utter againſt Socinianiſm, is ſelf-contradicting. But if he call me to it, I ſhall demonſtrate, that Chriſt being a Mediator, Sponſor, or ſubſequent Surety <hi>ex re geſta,</hi> con<g ref="char:EOLhyphen"/>ſtituted ſuch by the Covenant of Redemption, and made under the Law, purſuant to that prior engagement to obey, and ſuffer in our ſtead what anſwered the ends of the Law, that we might be ſaved in a way conſiſtent with God's Glory as our Lawgiver; will argue as great a change of Perſons and Surety<g ref="char:EOLhyphen"/>ſhip, as will ſolve his feigned Contradictions. And yet ſhall deny ſuch a <hi>Compleat</hi> Change of Perſon, which argues Chriſt to be the Sinner, and the Redeemed to be as Righteous as Chriſt. And in like manner ſhall deny ſuch a legaloneſs and ſtrict pecuniary Suretyſhip, as argues we paid all our own Debts, we ſatis<g ref="char:EOLhyphen"/>fied the Law by obeying its Precepts, and enduring its Penalty, and ſo the Law of Works, not the Goſpel abſolves us. You may ſee the point partly ſtatted, in the laſt Leaf of <hi>Defence of Goſpel Truth.</hi> As to what he ſaith of my <hi>pretending an agree<g ref="char:EOLhyphen"/>ment with ſome Modern Divines, who diſagree with me;</hi> I am ſure, I have truly recited their own words, which ſo far expreſs my Sentiments, let him prove them ſelf-contradictors if he can.</p>
+            <p>His flying Charge from the Premiſes, as if <hi>Socinianiſm</hi> were abetted, deſerves no farther reply, than to call it Slanderous. All my arguments againſt Chriſt's pecuniary Suretyſhip, he never read in <hi>any Book;</hi> and had a Socinian ur<g ref="char:EOLhyphen"/>ged them againſt a <hi>Truth,</hi> they are not the leſs valid if urged againſt <hi>errours</hi> deſtructive to Chriſtianity. And what if ſome Socinians uſe ſome Expreſſions in a ſence contrary to that wherein I plainly uſe them? They do alſo own a <hi>Commutation</hi> of Perſon, and then they muſt be Socinians by as ſtrong a Con<g ref="char:EOLhyphen"/>ſequence, who uſe that phraſe. If I have not in my Books ſaid enough to clear me from all ſuſpicion of that Error, the objector's Malice muſt be the ſtandard of Socinianiſm, and not the fundamental poſitions, which have by all its Celebrated oppoſers, been hitherto confuted. To omit Chriſt's eternal Ge<g ref="char:EOLhyphen"/>neration as the Son of God, of one Eſſence with the Father, which I oft aſſert. Could I ſay more as to his Satisfaction, than I have <hi>ex profeſſo</hi> done, and oft with enforcing Reaſons, See <hi>Man made Righteous, p. 7, 9, 10, 11, 12, 15, 16, 35, to 42, 229, &amp;c.</hi> I place the neceſſity of ſatisfaction in God's <hi>eſſential juſtice;</hi> I deſcribe it by Chriſts perfectly obeying the Law of Works, in its eſſen<g ref="char:EOLhyphen"/>tials and doing much more; as alſo in his ſuffering death in our ſtead. I aſſert his Sufferings to be <hi>Puniſhments</hi> ſatisfactory <hi>to juſtice</hi> for our Sins; that Chriſt was a <hi>proper Sacrifice,</hi> and himſelf the <hi>Prieſt</hi> that offered it <hi>on earth.</hi> I make his Obedience properly <hi>meritorious</hi> of all our ſaving Benefits; himſelf a proper <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in his death, with much more, which I challenge him to prove conſi<g ref="char:EOLhyphen"/>ſtent with Socinianiſm. But ſome Men think they can gain a point among their Credulous ſilly Admirers, by branding with a <hi>ſcandalous</hi> name, all they
+<pb n="8" facs="tcp:47204:5"/> bear an ill will to, if not affright the Perſons injured, or at leaſt their Friends But I bleſs God, I have found more of his defence, and am more aſſured of the goodneſs of my Cauſe, than to be affrighted from my Duty, by ſuch Bug-bears: And ſhould all they of the <hi>ſame</hi> judgment with me expoſe the truth by little arts, and trimming methods, in pretence of deſigns never ſo plauſible, I ſhall have peace, when my teſtimony is faithfully given, as occaſion ſhall offer, by whatever implacable rage I am purſued. I conclude, Sir, blameing your Credulity in Printing things as mine, before Examination, tho in moſt you declare your ſelf to be of my ſide, and in the reſt farther from my Enemies. Nor perceive I your Author's <hi>ſelf-denial,</hi> or <hi>peaceableneſs,</hi> unleſs you think, be<g ref="char:EOLhyphen"/>cauſe I have been ſo injured, therefore I muſt ſtill by farther Suffering, ju<g ref="char:EOLhyphen"/>ſtify the injurious; and bear the name of a hinderer of the <hi>Union,</hi> becauſe they who <hi>never were of it,</hi> perſecute me for my diligence in making, and care to preſerve that <hi>Union,</hi> againſt their various and unwearied attempts from the <hi>firſt,</hi> to break it. And let me tell you, that as they reſted not till by their Errours, noiſe of Doctrines, and other Arts, they had gained ſeveral to make this breach; ſo a Compliance, even to the allowing their Errours, and Sacri<g ref="char:EOLhyphen"/>ficing the truth to their Luſts, would be inſignificant to bring ſuch into the Uni<g ref="char:EOLhyphen"/>on, who refuſed it long before any of my Books were written; or firmly re<g ref="char:EOLhyphen"/>ſtore ſuch, who by their influence deſerted it; unleſs God give a Spirit, that ſhall prefer publick good to little deſigns, and encline to Love and Peace, above Diviſion and Wrath. Experience of the unſucceſsfulneſs of many overtures for Peace, (a narrative whereof would amaze the World) induceth this Con<g ref="char:EOLhyphen"/>jecture: And yet no hardſhips I have endured, ſhall abate a deſire of a ſolid Union upon honeſt Terms. You will find Dr. <hi>B's,</hi> Mr. <hi>H.</hi> and Mr. <hi>A</hi> de<g ref="char:EOLhyphen"/>ſign no more, than what's agreeable to what I affirm, and they hate the Er<g ref="char:EOLhyphen"/>rours I oppoſe. And which, tho ſo dangerous, <hi>M. L.</hi> for Partyſake, will pro<g ref="char:EOLhyphen"/>mote by blaſting my Confutation, and preſſing an implicit diſowning my Books, as a <hi>term</hi> of Union with thoſe, who rejected it as <hi>ſinful,</hi> long before my Books were written: Yea, who influenced the dividing of <hi>P. Hall</hi> Lecture, to break the Fond for poor Miniſters; that both theſe added to their ſtated ſeperate Meet<g ref="char:EOLhyphen"/>ing of Miniſters, (at the ſame hour the United Brethren met) a perfect Breach might be <hi>proclaimed.</hi> And for a Grave-ſtone over it, the only four Paſtors in <hi>London,</hi> who never came into the Union, are with two more, the only Le<g ref="char:EOLhyphen"/>cturers at <hi>P. H.</hi> Could then the Subſcribes to my Book, be ſo falſe to Truth and their Miniſtry, as to abate their Teſtimony, Will a general Union enſue? No, Unleſs the Diſſenters former Declaration againſt it were a <hi>Trick:</hi> Why then ſo inſiſted on? It's becauſe it will not be yielded to, and ſo they get an Excuſe long <hi>after</hi> this Subſcription, why they United not <hi>before</hi> it, Or if complyed with, then beſides a Countenance to their Errors, Men will judge the Presby<g ref="char:EOLhyphen"/>terians cauſe theſe Diviſions; altho they ask nothing of the Diſſenters but to meet with them, and be quiet. And Laſtly, the Engliſh and Foreign Churches would affix the Criſpian dotages to the Presbiterians, for thus revoking their Teſtimony againſt them: A Cenſure of which ſort, on a lighter occaſion, was going into the Preſs, juſt as my Book ſo Subſcribed came out. I am,</p>
+            <closer>
+               <signed>Your Brother and Servant <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> WILLIAMS</signed>
+            </closer>
+            <pb facs="tcp:47204:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
